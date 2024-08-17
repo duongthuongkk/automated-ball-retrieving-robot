@@ -1,1 +1,2 @@
 # automated-ball-retrieving-robot
+This project describe a ball-retrieving robot that use the camera frame to process frame. Then, data is pushed on the web by Django server and I can set mode or control robot directions by buttons on this web. To ensure a real-time level, I use a WebSocket protocol provided by Django. Besides, this web is responsive to suitable for design on a native mobile app by WebView component.
