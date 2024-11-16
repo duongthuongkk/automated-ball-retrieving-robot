@@ -1,7 +1,7 @@
-# Automated ball retrieving robot
+# Automated ball-retrieving robot
 
 ## Descriptions
-This project describes a system that can be automatic picked up tennis balls by using a camera. 
+This project describes an embedded system that can be automatic picked up tennis balls by using a camera. 
 
 ## Features
 - This is an embedded system built on a single-board computer like Raspberry Pi 4.
